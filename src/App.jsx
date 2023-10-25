@@ -129,7 +129,7 @@ function Header(prop){
                 </div>
             </div>
 
-          <div className='menu-burger' onClick={handleNavClick}>&#9776;</div>
+            <div className='menu-burger' onClick={handleNavClick}>&#9776;</div>
 
         </nav>
     </div>
