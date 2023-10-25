@@ -76,7 +76,7 @@ function App() {
 
       <main className="main-container">
           {data.map((cards, idx) => 
-          <ShoppingCard key={idx}
+          <ProductCard key={idx}
           Name = {cards.productName}
           price = {cards.price}
           rating = {cards.rating}
@@ -146,7 +146,7 @@ function Header(prop){
 
 //Card Components
 
-function ShoppingCard({Name,price,rating,setCount,sale,img,alt,prePrice}){
+function ProductCard({Name,price,rating,setCount,sale,img,alt,prePrice}){
   
   //Changing the state of the Button
   const [buttonName, setButtonName] = useState("Add to Cart");
