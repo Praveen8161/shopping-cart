@@ -1,7 +1,7 @@
 # READ ME
 
 ## Languages used
- HTML,CSS and JavaScript(React.js)
+ HTML,CSS and JavaScript(React.js Library)
 
 ## About Website
  - Shoping website created using "React + Vite"
