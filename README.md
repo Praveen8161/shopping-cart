@@ -26,4 +26,4 @@
  npm run dev
  `
 
- -[Live Site](https://deluxe-faun-f69d2b.netlify.app)
+ -[Live Site](https://shopping-cart-8161.netlify.app/)
